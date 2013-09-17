@@ -7,4 +7,5 @@ body {
   font-family: calibri;
   border-style: dotted;
   border-color: gray;
+  padding: 1em;
 }
