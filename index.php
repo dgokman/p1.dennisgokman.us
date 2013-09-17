@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
-<link rel="stylesheet" type="text/css" href="style.css" />
-<title>About Me</title>
+<head>
+ <meta charset="utf-8" />
+ <link rel="stylesheet" type="text/css" href="style.css" />
+ <title>About Me</title>
 </head>
  <body>
   <h1>Dennis Gokman</h1>
